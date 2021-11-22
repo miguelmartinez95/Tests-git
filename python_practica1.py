@@ -8,8 +8,8 @@ import numpy as np
 
 print('Hello World')
 
-a= 1
-b= 3
+a= 10
+b= 30
 
 #Vectores
 
